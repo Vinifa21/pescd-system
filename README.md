@@ -46,3 +46,15 @@ e `reports`. O acesso é encapsulado em `SeaweedFsStorageService`
 > ALTER TABLE documentations DROP COLUMN file_content;
 > ALTER TABLE reports        DROP COLUMN file_content;
 > ```
+
+
+### Projeto para Engenharia de Software 2
+Os alunos abaixo são os responsáveis por este fork:
+
+* Vinícius Ferreira Araujo - 832915 - https://github.com/Vinifa21
+* Pedro Leal Macedo - 832768 - https://github.com/plmacedo
+* Ricardo Yukio Hoshino Doi - 834185 - https://github.com/ricardoyhd
+
+Aqui desenvolveremos vários testes para o sistema pescd fornecido pelo professor.
+
+

@@ -1,0 +1,1 @@
+Na entrega preliminar nenhuma ferramenta de IA foi utilizada.
